@@ -1,6 +1,6 @@
 # ACM-ICPC_2016
 
-This repository shows semiweekly coding practices for the *ACM-International Collegiate Programming Contest* 
+This repository shows semiweekly coding practices for the **ACM-International Collegiate Programming Contest**
 
 Link to the problems are here: http://www.cs.ubc.ca/~acm-web/practice/
 
